@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="JPushClient.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiDefinition.cs">
+    <Files>
+      <File FileName="ApiDefinition.cs" Line="98" Column="11" />
+      <File FileName="jpush-ios-2.1.8.linkwith.cs" Line="10" Column="179" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JPushClient" expanded="True" selected="True">
+            <Node name="JPushClient" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.JPushClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
